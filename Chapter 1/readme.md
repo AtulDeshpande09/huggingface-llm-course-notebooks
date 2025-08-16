@@ -1,2 +1,2 @@
-Fundamentals of Transformer models
-Notebooks contain chapter 1 notes and basics of transformer library.
+This Folder contains all the implementations and quiz answers for chapter 1.
+
